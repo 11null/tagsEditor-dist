@@ -1,0 +1,22 @@
+{
+  "name": "my-glitch-app",
+  "version": "0.0.1",
+  "description": "What am I about?",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "otplib": "^6.0.2",
+    "express": "^4.15.5"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "license": "CC BY-NC 4.0",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
